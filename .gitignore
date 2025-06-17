@@ -1,0 +1,9 @@
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vs/
+
+# Secret or runtime-only files
+.env

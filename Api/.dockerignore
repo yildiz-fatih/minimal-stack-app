@@ -1,0 +1,11 @@
+# exclude compiled output
+bin/
+obj/
+
+# exclude Git & editor metadata
+.git
+.vscode
+.idea
+.vs
+*.user
+*.suo
